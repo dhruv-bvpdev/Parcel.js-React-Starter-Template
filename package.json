@@ -1,0 +1,23 @@
+{
+  "name": "CRAP",
+  "version": "1.0.0",
+  "description": "Starter files for Parcel.js and React",
+  "source": "public/index.html",
+  "scripts": {
+    "start": "parcel -p 3000",
+    "build": "parcel build"
+  },
+  "repository": "https://github.com/dhruv-bvpdev/Parcel.js-React-Starter-Template.git",
+  "author": "Dhruv Gursahani <dhruv.gursahani@outlook.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "@parcel/packager-raw-url": "^2.2.1",
+    "@parcel/transformer-sass": "^2.2.1",
+    "@parcel/transformer-webmanifest": "^2.2.1",
+    "parcel": "^2.2.1"
+  },
+  "dependencies": {
+    "react": "^17.0.2",
+    "react-dom": "^17.0.2"
+  }
+}
