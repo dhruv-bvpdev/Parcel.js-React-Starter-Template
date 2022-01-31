@@ -2,6 +2,8 @@
 
 This project was bootstrapped from Create React App with Parcel.js
 
+![Home Screen](/public/img/starter_home_page.png?raw=true)
+
 ## Available Scripts
 
 In the project directory, you can run:
