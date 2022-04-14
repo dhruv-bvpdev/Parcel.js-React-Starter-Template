@@ -1,6 +1,6 @@
-import React from "react";
-import rP from "../public/img/banner.png";
-import "./App.scss";
+import React from 'react';
+import rP from '../public/img/banner.png';
+import './App.scss';
 
 const App = () => {
   return (
